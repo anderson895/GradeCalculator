@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{DBC539A5-E850-497E-939F-664854186D46}|GradeCalculatorApplication\\GradeCalculatorApplication.csproj|solutionrelative:gradecalculatorapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBC539A5-E850-497E-939F-664854186D46}|GradeCalculatorApplication\\GradeCalculatorApplication.csproj|c:\\users\\padilla\\source\\repos\\gradecalculatorapplication\\gradecalculatorapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DBC539A5-E850-497E-939F-664854186D46}|GradeCalculatorApplication\\GradeCalculatorApplication.csproj|C:\\Users\\Padilla\\source\\repos\\GradeCalculatorApplication\\gradecalculatorapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DBC539A5-E850-497E-939F-664854186D46}|GradeCalculatorApplication\\GradeCalculatorApplication.csproj|solutionrelative:gradecalculatorapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -72,7 +72,7 @@
               "RelativeDocumentMoniker": "GradeCalculatorApplication\\Form1.cs",
               "ToolTip": "C:\\Users\\Padilla\\source\\repos\\GradeCalculatorApplication\\GradeCalculatorApplication\\Form1.cs",
               "RelativeToolTip": "GradeCalculatorApplication\\Form1.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAUwDEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowFAAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T23:46:33.569Z",
               "EditorCaption": ""
@@ -87,8 +87,7 @@
               "RelativeToolTip": "GradeCalculatorApplication\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T23:45:16.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T23:45:16.465Z"
             },
             {
               "$type": "Document",
@@ -99,8 +98,7 @@
               "ToolTip": "C:\\Users\\Padilla\\source\\repos\\GradeCalculatorApplication\\GradeCalculatorApplication\\Form1.cs [Design]",
               "RelativeToolTip": "GradeCalculatorApplication\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T23:35:43.704Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-30T23:35:43.704Z"
             }
           ]
         }

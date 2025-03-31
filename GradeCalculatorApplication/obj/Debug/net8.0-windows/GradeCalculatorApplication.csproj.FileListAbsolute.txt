@@ -14,3 +14,4 @@ C:\Users\Padilla\source\repos\GradeCalculatorApplication\GradeCalculatorApplicat
 C:\Users\Padilla\source\repos\GradeCalculatorApplication\GradeCalculatorApplication\obj\Debug\net8.0-windows\GradeCalculatorApplication.pdb
 C:\Users\Padilla\source\repos\GradeCalculatorApplication\GradeCalculatorApplication\obj\Debug\net8.0-windows\GradeCalculatorApplication.genruntimeconfig.cache
 C:\Users\Padilla\source\repos\GradeCalculatorApplication\GradeCalculatorApplication\obj\Debug\net8.0-windows\ref\GradeCalculatorApplication.dll
+C:\Users\Padilla\source\repos\GradeCalculatorApplication\GradeCalculatorApplication\obj\Debug\net8.0-windows\GradeCalculatorApplication.sourcelink.json

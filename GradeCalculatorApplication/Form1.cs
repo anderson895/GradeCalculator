@@ -9,8 +9,8 @@ namespace GradeCalculatorApplication
         public Form1()
         {
             InitializeComponent();
-            calculateButton.Click += CalculateButton_Click;
-            clearButton.Click += ClearButton_Click;
+            //calculateButton.Click += CalculateButton_Click;
+            //clearButton.Click += ClearButton_Click;
             clearButton.Enabled = false; // Initially disabled
         }
 
@@ -78,7 +78,7 @@ namespace GradeCalculatorApplication
         {
             inputScore.Clear();
             resultLabel.Text = "";
-            clearButton.Enabled = false; // Disable Clear button again
+            clearButton.Enabled = false; // Disable Clear button
         }
 
         private bool IsValidInput(string input, out double score)
