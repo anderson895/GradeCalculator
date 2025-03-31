@@ -1,0 +1,16 @@
+C:\Users\Padilla\source\repos\GradeCalculatorApplication\GradeCalculatorApplication\bin\Debug\net8.0-windows\GradeCalculatorApplication.exe
+C:\Users\Padilla\source\repos\GradeCalculatorApplication\GradeCalculatorApplication\bin\Debug\net8.0-windows\GradeCalculatorApplication.deps.json
+C:\Users\Padilla\source\repos\GradeCalculatorApplication\GradeCalculatorApplication\bin\Debug\net8.0-windows\GradeCalculatorApplication.runtimeconfig.json
+C:\Users\Padilla\source\repos\GradeCalculatorApplication\GradeCalculatorApplication\bin\Debug\net8.0-windows\GradeCalculatorApplication.dll
+C:\Users\Padilla\source\repos\GradeCalculatorApplication\GradeCalculatorApplication\bin\Debug\net8.0-windows\GradeCalculatorApplication.pdb
+C:\Users\Padilla\source\repos\GradeCalculatorApplication\GradeCalculatorApplication\obj\Debug\net8.0-windows\GradeCalculatorApplication.Form1.resources
+C:\Users\Padilla\source\repos\GradeCalculatorApplication\GradeCalculatorApplication\obj\Debug\net8.0-windows\GradeCalculatorApplication.csproj.GenerateResource.cache
+C:\Users\Padilla\source\repos\GradeCalculatorApplication\GradeCalculatorApplication\obj\Debug\net8.0-windows\GradeCalculatorApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Padilla\source\repos\GradeCalculatorApplication\GradeCalculatorApplication\obj\Debug\net8.0-windows\GradeCalculatorApplication.AssemblyInfoInputs.cache
+C:\Users\Padilla\source\repos\GradeCalculatorApplication\GradeCalculatorApplication\obj\Debug\net8.0-windows\GradeCalculatorApplication.AssemblyInfo.cs
+C:\Users\Padilla\source\repos\GradeCalculatorApplication\GradeCalculatorApplication\obj\Debug\net8.0-windows\GradeCalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\Padilla\source\repos\GradeCalculatorApplication\GradeCalculatorApplication\obj\Debug\net8.0-windows\GradeCalculatorApplication.dll
+C:\Users\Padilla\source\repos\GradeCalculatorApplication\GradeCalculatorApplication\obj\Debug\net8.0-windows\refint\GradeCalculatorApplication.dll
+C:\Users\Padilla\source\repos\GradeCalculatorApplication\GradeCalculatorApplication\obj\Debug\net8.0-windows\GradeCalculatorApplication.pdb
+C:\Users\Padilla\source\repos\GradeCalculatorApplication\GradeCalculatorApplication\obj\Debug\net8.0-windows\GradeCalculatorApplication.genruntimeconfig.cache
+C:\Users\Padilla\source\repos\GradeCalculatorApplication\GradeCalculatorApplication\obj\Debug\net8.0-windows\ref\GradeCalculatorApplication.dll
